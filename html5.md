@@ -13,9 +13,9 @@ In order to use it, you need to import these files into the HTML.
 
 ```html
   <head>
-      <!-- NewRelic browser agent. REMEMBER TO REPLACE THIS SCRIPT WITH YOUR OWN BROWSER AGENT -->
+      <!-- New Relic browser agent. REMEMBER TO REPLACE THIS SCRIPT WITH YOUR OWN BROWSER AGENT -->
       <script type="text/javascript" src="./agent.js"></script>
-      <!-- NewRelic tracker -->
+      <!-- New Relic tracker -->
       <script src="https://nexplayer.nexplayersdk.com/NewRelic/newrelic-video-nexplayer.min.js"></script>
       <!-- Nexplayer library -->
       <script src="https://nexplayer.nexplayersdk.com/HTML5/3.3.10_20210614/nexplayer.js"></script>
