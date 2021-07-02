@@ -1,6 +1,6 @@
 # NexPlayer New Relic
 
-NexPlayer integrates New Relic in Android, iOS & HTML5 Player SDKs, an observability platform that helps you build better software. You can bring in data from any digital source so that you can fully understand your system and how to improve it.
+NexPlayer integrates New Relic in our Tizen, WebOS, PlayStation, and Xbox Player SDKs, an observability platform that helps you build better software. You can bring in data from any digital source so that you can fully understand your system and how to improve it.
 
 ## New Relic features
 
