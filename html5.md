@@ -7,7 +7,7 @@ New Relic is an observability platform that helps you build better software inte
 ## Using with the player
 
 First of all, if you don't have a New Relic account, [sign up](https://newrelic.com/signup).
-If you don't have an agent.js file you can follow this [NewRelic documentation](https://docs.newrelic.com/docs/using-new-relic/cross-product-functions/install-configure/configure-new-relic-agents/) to create it.
+If you don't have an agent.js file you can follow this [New Relic documentation](https://docs.newrelic.com/docs/using-new-relic/cross-product-functions/install-configure/configure-new-relic-agents/) to create it.
 
 In order to use it, you need to import these files into the HTML.
 
